@@ -1,9 +1,11 @@
 <div align="center">
   
+  <img src="https://komarev.com/ghpvc/?username=JulianTinal&color=blueviolet&style=for-the-badge&label=Visitas+a+mi+Perfil" alt="Profile views" />
+  
   <h1>👋 ¡Hola! Soy Julian Gabriel Varguez Tinal</h1>
   <h3>🚀 Desarrollador de Software Jr</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend+Developer+%F0%9F%92%BB;Apasionado+por+el+Diseño+%F0%9F%8E%A8;Siempre+Aprendiendo+%F0%9F%93%9A;Nakama+de+los+Mugiwaras+%E2%9A%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend+Developer+%F0%9F%92%BB;Apasionado+por+el+Diseño+%F0%9F%8E%A8;Creando+Soluciones+con+IA+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
@@ -17,6 +19,7 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 - 📚 **Aprendizaje continuo** - Siempre explorando nuevas tecnologías
 - 🤝 **Trabajo en equipo** - Colaborador y comunicativo
 - ✨ **Sociable** - Construyo relaciones sólidas con mis compañeros
+
 
 ---
 
@@ -49,7 +52,6 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulianTinal&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
 
   <img src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif" width="300">
 </div>
