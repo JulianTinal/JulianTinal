@@ -2,8 +2,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=JulianTinal&color=blueviolet&style=for-the-badge&label=Visitas+a+mi+Perfil" alt="Profile views" />
   
-  <h1>👋 ¡Hola! Soy Julian Gabriel Varguez Tinal</h1>
-  <h3>🚀 Desarrollador de Software Jr</h3>
+  <h1> ¡Hola! Soy Julian Gabriel Varguez Tinal</h1>
+  <h3> Desarrollador de Software Jr</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend+Developer+%F0%9F%92%BB;Apasionado+por+el+Diseño+%F0%9F%8E%A8;Creando+Soluciones+con+IA+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
