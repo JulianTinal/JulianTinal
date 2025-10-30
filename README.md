@@ -9,6 +9,7 @@
 </div>
 
 ## 🚀 Sobre Mí
+
 Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovadoras y experiencias digitales excepcionales. Mi amor por el diseño me permite disfrutar tanto del desarrollo **backend** robusto como del **frontend** elegante.
 
 **🤖 Actualmente:** Desarrollo soluciones de IA para empresas, integrando tecnologías de vanguardia para optimizar procesos y crear valor empresarial.
@@ -20,10 +21,10 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 - 🤝 **Trabajo en equipo** - Colaborador y comunicativo
 - ✨ **Sociable** - Construyo relaciones sólidas con mis compañeros
 
-
 ---
 
 ### 🛠️ Todas mis tecnologías
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,html,nodejs,laravel,php,mongodb,mysql,tailwind,bootstrap,git,github,vscode&theme=dark&perline=8" />
 </div>
@@ -31,14 +32,22 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   
-  <!-- Lenguajes más usados con diseño circular -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianTinal&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+  <!-- GitHub Trophies -->
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=JulianTinal&theme=radical&no-frame=true&no-bg=true&row=2&column=6" />
+  
+  <!-- Estadísticas Generales -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=JulianTinal&show_icons=true&theme=radical&hide_border=true" />
+  
+  <!-- Lenguajes más usados -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianTinal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
   
 </div>
 
 ## 📫 Conectemos
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-tinal-272692321/)
@@ -52,6 +61,5 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 ---
 
 <div align="center">
-
   <img src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif" width="300">
 </div>
