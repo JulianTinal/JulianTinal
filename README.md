@@ -38,8 +38,8 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
   <!-- GitHub Trophies -->
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=JulianTinal&theme=radical&no-frame=true&no-bg=true&row=2&column=6" />
   
-  <!-- Estadísticas Generales -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=JulianTinal&show_icons=true&theme=radical&hide_border=true" />
+  <!-- Commits per Day -->
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianTinal&theme=radical" />
   
   <!-- Lenguajes más usados -->
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianTinal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
