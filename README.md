@@ -26,9 +26,8 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 ### 🛠️ Todas mis tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,html,nodejs,laravel,php,mongodb,mysql,tailwind,bootstrap,firebase,supabase,aws,git,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,html,nodejs,laravel,php,mongodb,mysql,postgresql,tailwind,bootstrap,firebase,supabase,aws,git,github,vscode&theme=dark&perline=8" />
 </div>
-
 ---
 
 ## 📊 GitHub Stats
