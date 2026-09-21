@@ -33,6 +33,14 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianTinal&theme=dracula)](https://git.io/streak-stats)  
 </div>
 
+<div align="center">
+  <img
+    src="./assets/acrade-contributions.svg"
+    alt="Animated arcade GitHub contribution graph"
+    width="100%"
+  />
+</div>
+
 ---
 
 ## Conectemos
