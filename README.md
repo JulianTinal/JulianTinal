@@ -24,9 +24,7 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras
 ---
 
 
-<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianTinal&theme=dracula)
-</div>
 
 <div align="center">
 
