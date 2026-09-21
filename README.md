@@ -33,8 +33,6 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianTinal&theme=dracula)](https://git.io/streak-stats)  
 </div>
 
-## Actividad de contribuciones
-
 <div align="center">
   <picture>
     <source
