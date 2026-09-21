@@ -25,13 +25,12 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras
 
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=JulianTinal&theme=dracula)](https://git.io/streak-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianTinal&theme=dracula)
-
-
+</div>
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JulianTinal&theme=dracula)](https://git.io/streak-stats)
   
   <!-- Lenguajes más usados -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianTinal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
