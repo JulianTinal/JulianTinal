@@ -33,6 +33,8 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianTinal&theme=dracula)](https://git.io/streak-stats)  
 </div>
 
+## Actividad de contribuciones
+
 <div align="center">
   <picture>
     <source
@@ -45,7 +47,7 @@ Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras
     />
     <img
       alt="Animated Bomberman GitHub contribution graph"
-      src="https://raw.githubusercontent.com/JulianTinal/JulianTinal/output/bomberman-contribution-graph-dark.svg"
+      src="https://raw.githubusercontent.com/JulianTinal/JulianTinal/output/bomberman-contribution-graph.svg"
       width="100%"
     />
   </picture>
