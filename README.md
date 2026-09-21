@@ -10,7 +10,7 @@
 
 ##  Sobre Mí
 
-Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovadoras y experiencias digitales excepcionales. Mi amor por el diseño me permite disfrutar tanto del desarrollo **backend** robusto como del **frontend** elegante.
+Soy un **Desarrollador de Software** apasionado por crear soluciones innovadoras y experiencias digitales excepcionales. Mi amor por el diseño me permite disfrutar tanto del desarrollo **backend** robusto como del **frontend** elegante.
 
 
 ---
@@ -21,6 +21,7 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,ts,js,html,python,nodejs,laravel,php,mongodb,mysql,postgresql,tailwind,bootstrap,firebase,supabase,aws,git,github,vscode&theme=dark&perline=8" />
 </div>
 
+---
 
 
 <div align="center">
