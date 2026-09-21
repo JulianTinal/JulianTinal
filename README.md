@@ -3,34 +3,25 @@
   <img src="https://komarev.com/ghpvc/?username=JulianTinal&color=blueviolet&style=for-the-badge&label=Visitas+a+mi+Perfil" alt="Profile views" />
   
   <h1> ¡Hola! Soy Julian Gabriel Varguez Tinal</h1>
-  <h3> Desarrollador de Software Jr</h3>
+  <h3> Desarrollador de Software</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+%2B+Frontend+Developer+%F0%9F%92%BB;Apasionado+por+el+Diseño+%F0%9F%8E%A8;Creando+Soluciones+con+IA+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mí
+##  Sobre Mí
 
 Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovadoras y experiencias digitales excepcionales. Mi amor por el diseño me permite disfrutar tanto del desarrollo **backend** robusto como del **frontend** elegante.
 
-**🤖 Actualmente:** Desarrollo soluciones de IA para empresas, integrando tecnologías de vanguardia para optimizar procesos y crear valor empresarial.
-
-### 💡 Lo que me define:
-- 🎯 **Responsable y comprometido** con cada proyecto que emprendo
-- 🎨 **Amante del diseño** y la experiencia de usuario
-- 📚 **Aprendizaje continuo** - Siempre explorando nuevas tecnologías
-- 🤝 **Trabajo en equipo** - Colaborador y comunicativo
-- ✨ **Sociable** - Construyo relaciones sólidas con mis compañeros
 
 ---
 
-### 🛠️ Todas mis tecnologías
+### Mi Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,astro,ts,js,html,python,nodejs,laravel,php,mongodb,mysql,postgresql,tailwind,bootstrap,firebase,supabase,aws,git,github,vscode&theme=dark&perline=8" />
 </div>
 
 
-## 📊 GitHub Stats
 
 <div align="center">
   
@@ -56,7 +47,7 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 
 ---
 
-## 📫 Conectemos
+## Conectemos
 
 <div align="center">
   
@@ -70,6 +61,3 @@ Soy un **Desarrollador de Software Jr** apasionado por crear soluciones innovado
 
 ---
 
-<div align="center">
-  <img src="https://media.tenor.com/fwrky34J6o8AAAAM/luffy-monkey-d-luffy.gif" width="300">
-</div>
